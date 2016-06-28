@@ -1,0 +1,34 @@
+example_id                                                   | status  | run_time        |
+------------------------------------------------------------ | ------- | --------------- |
+./spec/controllers/home_controller_spec.rb[1:1:1]            | passed  | 0.01384 seconds |
+./spec/controllers/static_controller_spec.rb[1:1:1]          | passed  | 0.00952 seconds |
+./spec/features/blogging/managing_posts_spec.rb[1:1:1]       | passed  | 0.07585 seconds |
+./spec/features/blogging/managing_posts_spec.rb[1:1:2]       | passed  | 0.0581 seconds  |
+./spec/features/blogging/managing_posts_spec.rb[1:1:3]       | passed  | 0.08126 seconds |
+./spec/features/blogging/managing_posts_spec.rb[1:1:4]       | passed  | 0.08795 seconds |
+./spec/features/blogging/managing_posts_spec.rb[1:1:5]       | passed  | 0.06542 seconds |
+./spec/features/blogging/managing_posts_spec.rb[1:1:6]       | passed  | 0.05965 seconds |
+./spec/features/blogging/managing_posts_spec.rb[1:2:1]       | passed  | 0.04105 seconds |
+./spec/features/reading/reading_posts_spec.rb[1:1]           | passed  | 0.03024 seconds |
+./spec/features/reading/reading_posts_spec.rb[1:2]           | failed  | 3.66 seconds    |
+./spec/features/signing_up_in_out/sign_in_out_spec.rb[1:1:1] | passed  | 0.04809 seconds |
+./spec/features/signing_up_in_out/sign_in_out_spec.rb[1:1:2] | passed  | 0.05276 seconds |
+./spec/features/signing_up_in_out/sign_in_out_spec.rb[1:1:3] | passed  | 0.05359 seconds |
+./spec/features/signing_up_in_out/sign_in_out_spec.rb[1:1:4] | passed  | 0.03926 seconds |
+./spec/features/signing_up_in_out/sign_in_out_spec.rb[1:1:5] | passed  | 0.06666 seconds |
+./spec/features/signing_up_in_out/sign_in_out_spec.rb[1:2:1] | passed  | 0.04566 seconds |
+./spec/features/signing_up_in_out/sign_up_spec.rb[1:1]       | passed  | 0.06135 seconds |
+./spec/features/signing_up_in_out/sign_up_spec.rb[1:2]       | passed  | 0.07718 seconds |
+./spec/helpers/home_helper_spec.rb[1:1]                      | pending | 0.00001 seconds |
+./spec/helpers/static_helper_spec.rb[1:1]                    | pending | 0.00002 seconds |
+./spec/models/post_spec.rb[1:1:1]                            | passed  | 0.00466 seconds |
+./spec/models/post_spec.rb[1:1:2]                            | passed  | 0.00337 seconds |
+./spec/models/post_spec.rb[1:2:1]                            | passed  | 0.00117 seconds |
+./spec/models/user_spec.rb[1:1]                              | passed  | 0.01469 seconds |
+./spec/models/user_spec.rb[1:2:1]                            | passed  | 0.01383 seconds |
+./spec/models/user_spec.rb[1:2:2]                            | passed  | 0.00304 seconds |
+./spec/models/user_spec.rb[1:2:3]                            | passed  | 0.02325 seconds |
+./spec/models/user_spec.rb[1:2:4]                            | passed  | 0.00687 seconds |
+./spec/models/user_spec.rb[1:3:1]                            | passed  | 0.00414 seconds |
+./spec/views/home/index.html.erb_spec.rb[1:1]                | pending | 0.00001 seconds |
+./spec/views/static/about.html.erb_spec.rb[1:1]              | pending | 0.00001 seconds |
